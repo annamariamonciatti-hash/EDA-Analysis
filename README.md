@@ -8,6 +8,8 @@ The pipeline is designed for experimental studies involving multiple physiologic
 
 The workflow supports participant-by-participant processing, reuse of previously processed data, group-level data aggregation, statistical testing, multiple-comparison correction, and automated plotting.
 
+## Warning: Before running this pipeline, visual inspection of the EDA signal and manual artifact correction using Ledalab are recommended to ensure reliable signal decomposition and more accurate feature extraction.
+
 ## Repository structure
 
 | File | Description |
