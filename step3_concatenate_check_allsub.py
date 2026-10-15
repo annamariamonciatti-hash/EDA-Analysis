@@ -26,10 +26,10 @@ FEATURES = [
 
 ALL_CONDITIONS = [
     "baseline",
-    "SOM_CTR",
+    "control",
     "cognitive",
     "stress",
-    "SOM_STR"
+    "post-stress"
 ]
 
 
